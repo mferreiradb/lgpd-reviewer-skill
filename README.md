@@ -28,7 +28,7 @@ Acione a skill quando o trabalho envolver, por exemplo:
 Na raiz do projeto ou no ambiente global:
 
 ```bash
-npx skills add mferreiradb/lgpd-reviewer-skill --skill lgpd-dev
+npx skills add mferreiradb/lgpd-reviewer-skill
 ```
 
 No chat, mencione a skill `lgpd-dev` ou anexe `SKILL.md`. O agente deve carregar `references/report-format.md` ao gerar análises.
